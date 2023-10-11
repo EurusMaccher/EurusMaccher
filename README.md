@@ -1,6 +1,8 @@
 ### Prazer, Sou Eurus. 👋
 
-![https://www.linkedin.com/in/renato-pedrozo-7b3626285/](https://i.postimg.cc/fyWZBBTp/linkedin.png)
+me encontre no Linkedin: https://www.linkedin.com/in/renato-pedrozo-7b3626285/
+
+![](https://i.postimg.cc/fyWZBBTp/linkedin.png)
 
 
 <!--
