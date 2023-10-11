@@ -1,4 +1,7 @@
-### Hi there 👋
+### Prazer, Sou Eurus. 👋
+
+![https://www.linkedin.com/in/renato-pedrozo-7b3626285/](https://i.postimg.cc/fyWZBBTp/linkedin.png)
+
 
 <!--
 **EurusMaccher/EurusMaccher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
