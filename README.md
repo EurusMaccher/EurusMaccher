@@ -2,6 +2,9 @@
 
 me encontre no Linkedin: https://www.linkedin.com/in/renato-pedrozo-7b3626285/
 
+- Nome: Renato Pedrozo
+- foco: Backend
+
 ![](https://i.postimg.cc/fyWZBBTp/linkedin.png)
 
 
